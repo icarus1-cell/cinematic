@@ -1,0 +1,12 @@
+{
+  "routes": {
+    "/cinematic": {},
+    "/cinematic/actors": {},
+    "/cinematic/categories": {},
+    "/cinematic/directors": {},
+    "/cinematic/history": {},
+    "/cinematic/home": {},
+    "/cinematic/login": {},
+    "/cinematic/register": {}
+  }
+}
